@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sga_frontend/static/css/main.ca6e8f73.css",
+    "main.js": "/sga_frontend/static/js/main.f190a74e.js",
+    "index.html": "/sga_frontend/index.html",
+    "main.ca6e8f73.css.map": "/sga_frontend/static/css/main.ca6e8f73.css.map",
+    "main.f190a74e.js.map": "/sga_frontend/static/js/main.f190a74e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca6e8f73.css",
+    "static/js/main.f190a74e.js"
+  ]
+}
